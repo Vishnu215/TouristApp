@@ -1,0 +1,16 @@
+com/tourist/android/touristclone/database/dao/RemoteKeysDao_Impl.java
+ com.tourist.android.touristclone.database.dao.RemoteKeysDao_Impl
+ com.tourist.android.touristclone.database.dao.RemoteKeysDao_Impl$1
+ com.tourist.android.touristclone.database.dao.RemoteKeysDao_Impl$2
+ com.tourist.android.touristclone.database.dao.RemoteKeysDao_Impl$3
+com/tourist/android/touristclone/database/dao/RemotePostsDao_Impl.java
+ com.tourist.android.touristclone.database.dao.RemotePostsDao_Impl
+ com.tourist.android.touristclone.database.dao.RemotePostsDao_Impl$1
+ com.tourist.android.touristclone.database.dao.RemotePostsDao_Impl$2
+ com.tourist.android.touristclone.database.dao.RemotePostsDao_Impl$3
+ com.tourist.android.touristclone.database.dao.RemotePostsDao_Impl$3$1
+com/tourist/android/touristclone/BuildConfig.java
+ com.tourist.android.touristclone.BuildConfig
+com/tourist/android/touristclone/database/RoomDatabase_Impl.java
+ com.tourist.android.touristclone.database.RoomDatabase_Impl
+ com.tourist.android.touristclone.database.RoomDatabase_Impl$1
